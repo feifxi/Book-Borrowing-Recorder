@@ -1,6 +1,6 @@
 # INT103 Final Project
 
-This project is the final project of the INT103 Course. It is a Java application designed with a text-based UI and implements multiple data storage methods, including in-memory storage, file storage, and database storage. The project uses a clean architecture design to ensure the separation of concerns, making the codebase easier to maintain and scale.
+This project is the final project of the INT103 Course. It is a Java application designed with a text-based UI and implements multiple data storage methods, including in-memory storage, file storage, and database storage. This project uses a clean architecture design to ensure the separation of concerns.
 
 ## Functions
 
